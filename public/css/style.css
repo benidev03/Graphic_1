@@ -1,0 +1,15 @@
+@import url("navigation.css");
+@import url("main.css");
+@import url("group1.css");
+@import url("group2.css");
+@import url("group3.css");
+@import url("footer.css");
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Nunito Sans';
+    box-sizing: border-box;
+}
+
+
+

@@ -1,0 +1,29 @@
+
+.group_1{
+    display: flex;
+    padding: 40px 100px;
+    gap: 100px;
+    width: 100%;
+   
+}
+.group_1 header{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.group_1 header h1{
+    font-size: 60px;
+    box-sizing: border-box;
+}
+
+.group_1 header a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 120px 0px 0px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
